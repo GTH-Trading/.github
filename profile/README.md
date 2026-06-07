@@ -147,6 +147,7 @@ All investing and trading involves risk, including the possible loss of principa
 ## Connect
 
 Patreon: GTH Trading
+https://www.patreon.com/cw/GTHTrading
 
 
 Happy trading!
