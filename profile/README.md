@@ -28,30 +28,16 @@ The Blueprint is designed to prepare members for the week ahead before markets o
 
 The proprietary GTH Trading Alerting System scans the market for bullish technical structures based on the same analytical framework used in manual research.
 Current alert criteria include:
-* Multi-timeframe analysis
-* Multi-indicator analysis
-* Trend analysis
-* Momentum confirmation
-* Regression-based trend evaluation
+* Multi-timeframe, multi-indicator stock analysis
+* Trend and momentum confirmation
+* Regression-based evaluation
 
-Future development includes:
-* Local bottom identification alerts
+Future developments include:
+* Local bottom/stock recovery identification alerts
 * Crypto market alerts
 * Enhanced market breadth analysis
 
 The objective is to generate useful, impactful notifications built around extensive analysis, and capable of actional trade scenarios.
-
----
-
-### Options Education
-
-Many investors understand stocks but never develop a framework for options. GTH Trading provides a practical education on:
-* Standard calls and puts
-* Straddles/strangles, collars, debit/credit spreads, ratio spreads, calendar spreads, butterflies and condors, and stock repair strategies.
-* Risk Management
-* Assignment and Exercise Dynamics
-
-The focus is on understanding both opportunity and risk.
 
 ---
 
@@ -64,6 +50,18 @@ Members receive access to live market discussion throughout the trading day. Top
 * Risk assessment/management
 
 Real-time discussion provides context that is difficult to capture in static articles.
+
+---
+
+### Options Education
+
+Many investors understand stocks but never develop a framework for options. GTH Trading provides a practical education on:
+* Standard calls and puts
+* Straddles/strangles, collars, debit/credit spreads, ratio spreads, calendar spreads, butterflies and condors, and stock repair strategies.
+* Risk Management
+* Assignment and Exercise Dynamics
+
+The focus is on understanding both opportunity and risk.
 
 ---
 
